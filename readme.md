@@ -1,2 +1,2 @@
 # Random Nature Image Generator With Vanilla JavaScript
-HTML CSS JavaScript Unspash API
+<b>Tech Stacks</b>: HTML CSS JavaScript Unspash API
