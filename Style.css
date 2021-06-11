@@ -1,0 +1,49 @@
+#images {
+	margin: 10px;
+	border:5px solid #e5d549;
+	border-radius: 3px;
+}
+
+#title {
+	text-align: center;
+}
+
+#userinput {
+	width: 250px;
+	height:20px;
+	border-radius: 6px;
+	padding: 3px;
+	text-align: center;
+}
+
+#btn-gen {
+	background-color: #3b14a7;
+	color: white;
+	width: 70px;
+	height:30px;
+	border-radius: 5px;
+	outline: none;
+	border: black solid;
+	font-family: arial;
+}
+
+#btn-gen:hover {
+	font-family: arial;
+	background-color: #00ead3;
+	color: black;
+	width: 70px;
+	height:30px;
+	border-radius: 5px;
+	outline: none;
+	border: black solid;
+	transition:0.5s;
+	cursor:pointer;
+}
+
+#container {
+	text-align: center;
+}
+
+#result-box {
+	margin-left: 20%;
+}
