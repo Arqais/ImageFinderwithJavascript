@@ -1,3 +1,3 @@
-# Random Nature Image Generator With Vanilla JavaScript
+# Image Finder With Vanilla JavaScript
 <b>Tech Stacks</b>: HTML CSS JavaScript Unspash API
-App Link: https://modest-snyder-52b157.netlify.app/
+App Link: https://image-finder-js.netlify.app/
